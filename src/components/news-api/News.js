@@ -73,7 +73,7 @@ export default class News extends React.Component {
                   <div className="button-1">
                   <a href={article.url}>
                     <Button variant="primary" align="center">
-                      Selanjutnya
+                      Read More
                     </Button>
                   </a>
                   </div>
